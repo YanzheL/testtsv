@@ -1,0 +1,12 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        50,
+        605
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/YanzheL/testtsv/master/TSV_Vector_AZ.tsv",
+    }
+  ]
+}
